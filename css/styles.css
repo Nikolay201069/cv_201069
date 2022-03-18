@@ -1,10 +1,7 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url(<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@100&display=swap" rel="stylesheet">);
-
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 /* Styles for the body */
 
 body {
@@ -16,11 +13,11 @@ h3 {
 	color: #859FFF}
 h1 {
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
-}
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
+
 .resume-header {
-    background-color: #39DB77;
+    background-color: #49FD50;
 }
 
 .resume-main {
